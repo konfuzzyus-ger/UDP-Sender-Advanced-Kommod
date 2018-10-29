@@ -1,0 +1,5 @@
+/home/martin/Projekte/UDPSender/UDPSender/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/martin/Projekte/UDPSender/UDPSender/bin/Debug/UDPSender.pdb
+/home/martin/Projekte/UDPSender/UDPSender/bin/Debug/UDPSender.exe
+/home/martin/Projekte/UDPSender/UDPSender/obj/x86/Debug/UDPSender.exe
+/home/martin/Projekte/UDPSender/UDPSender/obj/x86/Debug/UDPSender.pdb

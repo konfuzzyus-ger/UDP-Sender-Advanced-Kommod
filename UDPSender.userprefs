@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="UDPSender/UDPSender.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UDPSender/Program.cs">
+    <Files>
+      <File FileName="UDPSender/Program.cs" Line="17" Column="1" />
+      <File FileName="UDPSender/Message.cs" Line="31" Column="20" />
+      <File FileName="UDPSender/Sender.cs" Line="15" Column="25" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
